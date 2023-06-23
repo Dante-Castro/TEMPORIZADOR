@@ -18,7 +18,7 @@ Cronômetro
 <br>
 
 <p align="center">
-  <img alt="Layout página de apresentação de empresa" src="./image/cronômetro.png" width="100%">
+  <img alt="Layout página de apresentação de empresa" src="./image/Captura%20de%20Tela%20(104).png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
